@@ -1,15 +1,15 @@
-# [Travel Mate](https://github.com/project-travel-mate/Travel-Mate) Server (Project: Nomad)
-[![Build Status](https://travis-ci.org/project-travel-mate/server.svg?branch=master)](https://travis-ci.org/project-travel-mate/server)
-> [Django 2.0](https://docs.djangoproject.com/en/2.0/releases/2.0/) server for Travel Mate
+# [sustainable-surf-tourism](https://github.com/sustainable-surf-tourism/sustainable-surf-tourism) Server (Project: Nomad)
+[![Build Status](https://travis-ci.org/sustainable-surf-tourism/server.svg?branch=master)](https://travis-ci.org/sustainable-surf-tourism/server)
+> [Django 2.0](https://docs.djangoproject.com/en/2.0/releases/2.0/) server for sustainable-surf-tourism
 
 ## Contribute
-+ For new feature request in the app, open a [new feature request](https://github.com/project-travel-mate/Travel-Mate/issues) on the main repository
-+ For reporting bug in existing APIs, open a [new issue](https://github.com/project-travel-mate/server/issues) on this repository
++ For new feature request in the app, open a [new feature request](https://github.com/sustainable-surf-tourism/sustainable-surf-tourism/issues) on the main repository
++ For reporting bug in existing APIs, open a [new issue](https://github.com/sustainable-surf-tourism/server/issues) on this repository
 
 ## Local setup instructions
 + Clone the project from source
 ```shell
-git clone https://github.com/project-travel-mate/server && cd server
+git clone https://github.com/sustainable-surf-tourism/server && cd server
 ```
 + Setup virtual environment
 ```shell
